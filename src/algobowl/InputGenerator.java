@@ -1,4 +1,4 @@
-package algobowl.src.algobowl;
+package algobowl;
 import java.io.*;
 import java.nio.file.*;
 import java.util.*;
